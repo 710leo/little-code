@@ -1,0 +1,3 @@
+usage:
+
+bash <(curl -s http://script.sh) arg1 arg2
